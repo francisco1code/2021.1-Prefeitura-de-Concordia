@@ -1,0 +1,6 @@
+site_name: IHC grupo 01
+repo_url: https://github.com/Interacao-Humano-Computador/2021.1-Grupo01
+edit_uri: ""
+
+theme:
+  name: material
