@@ -4,3 +4,8 @@ edit_uri: ""
 
 theme:
   name: material
+
+nav:
+  - Home: "index.md"
+  - Planejamento: "planejamento.md"
+  - Políticas de Branch: "Politica_de_branch.md"
