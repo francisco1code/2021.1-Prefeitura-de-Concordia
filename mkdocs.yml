@@ -4,3 +4,9 @@ edit_uri: ""
 
 theme:
   name: material
+  features: navigation.tabs
+
+nav:
+  - Home: "index.md"
+  - Planejamento:
+    - Metodologias e Processos: "metodologia/Documento_de_metodologia.md"
