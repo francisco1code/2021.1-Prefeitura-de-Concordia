@@ -1,6 +1,6 @@
 # Documento de Metodologia e Processos
 
-## Histórico
+## Versionamento
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
 |31/07|1.0|Adição do documento de metodologia|Francisco Emanoel e Eliseu Kadesh|  
