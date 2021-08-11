@@ -1,4 +1,3 @@
-## Cronograma
 | Título | Entrega | Atividades e objetivos | Período |
 | - | - | - | - |
 | Início da equipe | - | Escolha dos membros e reunião de familiarização | 20/07 |

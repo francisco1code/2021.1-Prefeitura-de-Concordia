@@ -1,4 +1,3 @@
-## Ferramentas 
 | Ferramentas | logotipos |
 | - | - |
 | Discord| ![discord](https://github.com/Interacao-Humano-Computador/2021.1-Grupo01/blob/docs/4-planejamento/images/planejamento/discord.png?raw=true){: style="height:125px;"}
