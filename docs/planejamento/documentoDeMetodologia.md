@@ -1,12 +1,11 @@
 # Documento de Metodologia e Processos
 
-## Histórico
+## Versionamento
 |Data|Versão|Descrição|Autor(es)
 |--|--|--|--|
 |31/07|1.0|Adição do documento de metodologia|Francisco Emanoel e Eliseu Kadesh|  
 |07/08|2.0|Refatoração completa por suspeita de plágio|João Pedro|
 |07/08|2.1|Junção do documento de branchs e commits|João Pedro|
-|10/08|2.1|Adição do documento das ferramentas e início do documento do cronograma |Natanael Filho|
 
 ## 1. Introdução
 <p align = "justify"> &emsp;&emsp; Esse documento representa a explicação e os motivos das metodologias que estarão sendo utilizadas no projeto. Com isso, cada metodologia terá uma breve explicação, seu motivo para ser utilizada e quais documentos/artefatos e rituais serão feitos durante a duração desse projeto [1].</p>
